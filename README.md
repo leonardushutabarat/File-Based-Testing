@@ -274,7 +274,7 @@ file-based-testing-with-python/
 ![Dashboard](https://github.com/user-attachments/assets/7bc6e1c4-8e6a-4414-a7d7-6bab3209d8b5)
 *Main Dashboard*
 
-![Dashboard](https://github.com/user-attachments/assets/ddc30788-61d3-4005-909c-e32f41701b41)
+![Dashboard](https://github.com/user-attachments/assets/1a0a5df7-80a2-4dfe-88f5-7c2b19e5f4e0)
 *Test Result 1: all.test*
 
 ![Dashboard](https://github.com/user-attachments/assets/4ad97cba-26e7-4ac6-b2e7-79a4f9c70092)
