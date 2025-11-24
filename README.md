@@ -23,13 +23,13 @@ A comprehensive Python testing framework that allows you to define test cases in
 [📸 Screenshots](#-screenshots)  
 [🤝 Contributing](#-contributing)  
 [📄 License](#-license)  
-[🙏 Acknowledgments](#-acknowledgments)
+[🙏 Acknowledgments](#-acknowledgments)  
 
 
 
-🔴 [Overview](#-overview)  
+[🔴 Overview](#-overview)  
 🟠 [Features](#-features)  
-🟡 [Technology Stack](#-technology-stack)  
+[🟡 Technology Stack](#-technology-stack)  
 🟢 [Installation](#-installation)  
 🔵 [Usage](#-usage)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ [Command Line Interface](#command-line-interface)  
