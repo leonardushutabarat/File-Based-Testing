@@ -29,18 +29,18 @@ A comprehensive Python testing framework that allows you to define test cases in
 
 🔴 [Overview](#-overview)  
 🟠 [Features](#-features)  
-🟡 [Technology Stack](#technology-stack)  
-🟢 [Installation](#installation)  
-🔵 [Usage](#usage)  
+🟡 [Technology Stack](#-technology-stack)  
+🟢 [Installation](#-installation)  
+🔵 [Usage](#-usage)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ [Command Line Interface](#command-line-interface)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ [Web Interface](#web-interface)  
-🟣 [Test File Format](#test-file-format)  
-🟤 [Examples](#examples)  
-⚫ [Project Structure](#project-structure)  
-⚪ [Screenshots](#screenshots)  
-🔴 [Contributing](#contributing)  
-🟠 [License](#license)  
-🟡 [Acknowledgments](#acknowledgments)  
+🟣 [Test File Format](#-test-file-format)  
+🟤 [Examples](#-examples)  
+⚫ [Project Structure](#-project-structure)  
+⚪ [Screenshots](#-screenshots)  
+🔴 [Contributing](#-contributing)  
+🟠 [License](#-license)  
+🟡 [Acknowledgments](#-acknowledgments)  
 
 ## 🎯 Overview
 
