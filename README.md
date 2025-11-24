@@ -309,6 +309,9 @@ Total: 19 | Passed: 19 | Failed: 0
 ======================================================================
 ```
 
+![Command Line Screenshot](screenshots/result_math_command-line.png)
+*On Visual Studio Code terminal*
+
 ## 🤝 Contributing
 
 Contributions are welcome! Here's how you can help:
