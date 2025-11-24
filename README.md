@@ -10,7 +10,7 @@ A comprehensive Python testing framework that allows you to define test cases in
 ## 📋 Table of Contents
 
 
-🔴- [🎯 Overview](#-overview)
+[🎯 Overview](#-overview)
 - [✨ Features](#-features)
 - [🛠️ Technology Stack](#️-technology-stack)
 - [📦 Installation](#-installation)
