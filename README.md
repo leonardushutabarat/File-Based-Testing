@@ -274,6 +274,18 @@ file-based-testing-with-python/
 ![Dashboard](https://github.com/user-attachments/assets/7bc6e1c4-8e6a-4414-a7d7-6bab3209d8b5)
 *Main Dashboard*
 
+![Dashboard](https://github.com/user-attachments/assets/ddc30788-61d3-4005-909c-e32f41701b41)
+*Test Result 1: all.test*
+
+![Dashboard](https://github.com/user-attachments/assets/4ad97cba-26e7-4ac6-b2e7-79a4f9c70092)
+*Test Result 2: sample_math.test*
+
+![Dashboard](https://github.com/user-attachments/assets/e3105358-1def-463b-a741-4ce54073494e)
+*Test Result 3: sample_python.test*
+
+![Dashboard](https://github.com/user-attachments/assets/1a2d7954-2cc7-4c17-b478-778837a6c213)
+*Test Result 4: sample_strings.test*
+
 ### Command Line Output
 ```
 Found 4 test file(s)
