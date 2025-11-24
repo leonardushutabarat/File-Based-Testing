@@ -271,7 +271,8 @@ file-based-testing-with-python/
 ## 📸 Screenshots
 
 ### Web Dashboard
-![Web Interface](screenshots/web_interface.png)
+![Dashboard](https://github.com/user-attachments/assets/7bc6e1c4-8e6a-4414-a7d7-6bab3209d8b5)
+*Main Dashboard
 
 ### Command Line Output
 ```
@@ -316,22 +317,18 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- **Developed with assistance from Claude (Anthropic)** - AI pair programming
 - Inspired by modern testing frameworks like pytest and unittest
 - Built with ❤️ for the QA and development community
 
 ## 📞 Contact
 
-**QA Elevated Solutions**
-- GitHub: [@qa-elevated-solutions](https://github.com/qa-elevated-solutions)
-- Repository: [file-based-testing-with-python](https://github.com/qa-elevated-solutions/file-based-testing-with-python)
+- GitHub: [@leonardushutabarat](https://github.com/leonardushutabarat)
+- Repository: [https://github.com/leonardushutabarat/File-Based-Testing](https://github.com/leonardushutabarat/File-Based-Testing)
 
 ---
 
 <div align="center">
 
 **⭐ Star this repository if you find it helpful!**
-
-Made with ❤️ by QA Elevated Solutions
 
 </div>
