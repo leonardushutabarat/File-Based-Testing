@@ -292,8 +292,8 @@ file-based-testing-with-python/
 
 ### Command Line Output
 ```
-Found 4 test file(s)
-Running 19 test(s)...
+Found 1 test file(s)
+Running 5 test(s)...
 ======================================================================
 TEST RESULTS
 ======================================================================
@@ -301,8 +301,8 @@ TEST RESULTS
 ✓ PASS Addition Test
 ✓ PASS Multiplication Test
 ✓ PASS Division Test
-✓ PASS Python Hello World
-✓ PASS JSON Test
+✓ PASS Subtraction Test
+✓ PASS Power Test
 
 ======================================================================
 Total: 19 | Passed: 19 | Failed: 0
