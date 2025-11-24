@@ -264,11 +264,12 @@ file-based-testing-with-python/
 │   ├── sample_python.test
 │   ├── sample_strings.test
 │   └── all.test
-└── screenshots/                # UI screenshots
+└── screenshots/                # All screenshots
     └── result_01.png
     ├── result_02.png
     ├── result_03.png
     ├── result_04.png
+    ├── result_math_command-line.png
     └── ui_01.png
 ```
 
