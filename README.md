@@ -283,7 +283,7 @@ file-based-testing-with-python/
 ![Dashboard](https://github.com/user-attachments/assets/e3105358-1def-463b-a741-4ce54073494e)
 *Test Result 3: sample_python.test*
 
-![Dashboard](https://github.com/user-attachments/assets/1a2d7954-2cc7-4c17-b478-778837a6c213)
+![Dashboard](https://github.com/user-attachments/assets/d14861e6-3f59-4d43-8b69-0d1763b676a1)
 *Test Result 4: sample_strings.test*
 
 ### Command Line Output
