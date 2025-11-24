@@ -265,7 +265,11 @@ file-based-testing-with-python/
 │   ├── sample_strings.test
 │   └── all.test
 └── screenshots/                # UI screenshots
-    └── web_interface.png
+    └── result_01.png
+    ├── result_02.png
+    ├── result_03.png
+    ├── result_04.png
+    └── ui_01.png
 ```
 
 ## 📸 Screenshots
