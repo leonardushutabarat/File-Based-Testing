@@ -3,7 +3,7 @@
 A comprehensive Python testing framework that allows you to define test cases in simple text files and run them through both command-line interface and a beautiful web dashboard.
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![Flask](https://img.shields.io/badge/Flask-3.0.0-green.svg)
+[![Flask](https://img.shields.io/badge/Flask-3.0.0-green.svg)](https://pypi.org/project/Flask/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ![Status](https://img.shields.io/badge/Status-Active-success.svg)
 
