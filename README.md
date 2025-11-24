@@ -325,7 +325,7 @@ Contributions are welcome! Here's how you can help:
 - ✨ New test types and features
 - 🎨 UI/UX improvements
 - 🧪 Additional test examples
-- 🌐 Internationalization
+- 🌐 Internationalisation
 
 ## 📄 License
 
