@@ -272,7 +272,7 @@ file-based-testing-with-python/
 
 ### Web Dashboard
 ![Dashboard](https://github.com/user-attachments/assets/7bc6e1c4-8e6a-4414-a7d7-6bab3209d8b5)
-*Main Dashboard
+*Main Dashboard*
 
 ### Command Line Output
 ```
